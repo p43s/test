@@ -1,2 +1,2 @@
 hello necromunger
-this change was write in master branch
+хуйпизда разрешение конфликта
